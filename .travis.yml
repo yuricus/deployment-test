@@ -1,7 +1,7 @@
 language: node_js
 node_js:
   - "6"
-after_success: deploy.sh
+after_success: sh deploy.sh
 deploy:
   provider: script
   script: deploy.sh
