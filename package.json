@@ -1,0 +1,13 @@
+{
+  "name": "test",
+  "version": "0.0.1-dev.20170307",
+  "description": "Test",
+  "license": "LGPL-2.1",
+  "homepage": "https://github.com/ontodia-org/ontodia#readme",
+  "scripts": {
+    "test": "exit "
+  },
+  "dependencies": {
+    "lodash": "4.15.0"
+  }
+}
